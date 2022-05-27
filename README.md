@@ -1,4 +1,4 @@
-# azure-terraform-[MODULE_NAME]
+# azure-terraform-private-endpoint
 
 ## Create a simple [MODULE_NAME] in Azure
 
